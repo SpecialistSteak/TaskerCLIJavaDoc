@@ -1,2 +1,0 @@
-# TaskerCLIJavaDoc
- JavaDocs for TaskerCLI
